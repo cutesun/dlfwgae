@@ -385,23 +385,23 @@ function get() {
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>GoAgent {$__version__} is working now</title>
+    <title>DLFW {$__version__} is working now</title>
 </head>
 <body>
     <table width="800" border="0" align="center">
         <tr><td align="center"><hr></td></tr>
         <tr><td align="center">
-            <b><h1>GoAgent {$__version__} is working now</h1></b>
+            <b><h1>DLFW {$__version__} is working now</h1></b>
         </td></tr>
         <tr><td align="center"><hr></td></tr>
 
         <tr><td align="center">
-            GoAgent is HTTP Porxy written by python and hosting in GAE/PHP.
+            DLFW is HTTP Porxy written by python and hosting in GAE/PHP.
         </td></tr>
         <tr><td align="center"><hr></td></tr>
 
         <tr><td align="center">
-            For more detail,please refer to <a href="http://code.google.com/p/goagent/">GoAgent Project Homepage</a>.
+            For more detail,please refer to <a href="">DLFW Project Homepage</a>.
         </td></tr>
         <tr><td align="center"><hr></td></tr>
     </table>
