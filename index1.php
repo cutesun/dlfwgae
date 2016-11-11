@@ -87,7 +87,7 @@ class URLFetch {
         }
         return $bytes;
     }
-
+ 
     function urlfetch_curl($url, $payload, $method, $headers, $follow_redirects, $deadline, $validate_certificate) {
 
         $this->headers = array();
