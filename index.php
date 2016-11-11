@@ -396,8 +396,7 @@ function get() {
         <tr><td align="center"><hr></td></tr>
 
         <tr><td align="center">
-            DLFW is HTTP Porxy written by python and hosting in GAE/PHP.
-        </td></tr>
+                   </td></tr>
         <tr><td align="center"><hr></td></tr>
 
         <tr><td align="center">
